@@ -1,6 +1,12 @@
 Markdox [![Build Status](https://secure.travis-ci.org/cbou/markdox.png)](http://travis-ci.org/cbou/markdox)
 ========
 
+This is a Fork
+---
+
+I forked the repository to enable `dox` based option set by markdox.
+
+
 Markdox is a documentation generator based on [Dox](https://github.com/visionmedia/dox) and Markdown with support for JavaScript, CoffeeScript and IcedCoffeeScript.
 
 It can be used from the command `markdox` or in NodeJS with `var markdox = require('markdox')`.
@@ -32,7 +38,7 @@ or with the [gulp plugin](https://github.com/gberger/gulp-markdox)
 
 Quick Start
 ---
-  
+
     $ markdox test/fixtures/a.js test/fixtures/b.js
 
 Here is the list of supported tags:
